@@ -11,6 +11,8 @@ def print_hi(name):
     print('feature 4.1')
     print('feature 5.1')
     print('feature 5.2')
+    print('feature 6')
+    print('feature 7')
 
 
 if __name__ == '__main__':
